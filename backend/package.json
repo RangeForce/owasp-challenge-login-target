@@ -3,7 +3,7 @@
     "@hapi/hapi": "^20.2.1",
     "@hapi/iron": "^6.0.0",
     "@hapi/joi": "^17.1.1",
-    "mongodb": "^4.4.1",
+    "mongodb": "^4.17.0",
     "mongoose": "^6.2.8"
   }
 }
